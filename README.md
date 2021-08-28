@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+### 😄 I’m Erfan Mahdavi athar
+- 🔭 I’m currently working on my Store project 
+- 🌱 I’m currently learning Dagger hilt 2
+- ✨ Familiar with java , kotlin , MVVM , Repository Pattern , kotlin coroutines , Room , Retrofit
+- 🌟 also familiar with php , laravel , node.js , Express.js , mySql , mongodb , JWT
+- 📫 erfan.mh.at@gmail.com
+- 🎯 https://www.linkedin.com/in/erfan-mahdavi-athar-9198a7210/
 <!--
 **erfanmhat/erfanmhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
