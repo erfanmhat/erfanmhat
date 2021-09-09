@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 😄 I’m Erfan Mahdavi athar
-- 🔭 I’m currently working on my Store project 
-- 🌱 I’m currently learning Dagger hilt 2
+- 🔭 I’m currently working on my Store project and Run project
+- 🌱 I’m currently learning Dagger hilt 2 and flow
 - ✨ Familiar with java , kotlin , MVVM , Repository Pattern , kotlin coroutines , Room , Retrofit
 - 🌟 also familiar with php , laravel , node.js , Express.js , mySql , mongodb , JWT
 - 📫 erfan.mh.at@gmail.com
