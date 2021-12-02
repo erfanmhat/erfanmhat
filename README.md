@@ -8,8 +8,26 @@
 
 - 🔭 I’m currently working on my Store project and Run project
 - 🌱 I’m currently learning flow and Test apps on Android
-- ✨ Familiar with java , kotlin , MVVM , Repository Pattern , kotlin coroutines , Room , Retrofit , Dagger hilt 2
-- 🌟 also familiar with php , laravel , node.js , Express.js , mySql , mongodb , JWT
+- ✨ Familiar with 
+![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![KOTLIN](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat&logo=mvvm)&nbsp;
+![Repository_Pattern](https://img.shields.io/badge/-Repository_Pattern-05122A?style=flat&logo=Repository_Pattern)&nbsp;
+![Repository_Pattern](https://img.shields.io/badge/-Repository_Pattern-05122A?style=flat&logo=Repository_Pattern)&nbsp;
+![kotlin_coroutines](https://img.shields.io/badge/-Kotlin_Coroutines-05122A?style=flat&logo=kotlin_coroutines)&nbsp;
+![Room](https://img.shields.io/badge/-Room-05122A?style=flat&logo=Room)&nbsp;
+![Retrofit](https://img.shields.io/badge/-Retrofit-05122A?style=flat&logo=Retrofit)&nbsp;
+![Dagger_hilt_2](https://img.shields.io/badge/-Dagger_hilt_2-05122A?style=flat&logo=Dagger_hilt_2)&nbsp;
+![TEST](https://img.shields.io/badge/-Testing-05122A?style=flat&logo=TEST)&nbsp;
+- 🌟 also familiar with 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-java_script-05122A?style=flat&logo=JAVASCRIPT)&nbsp;
+![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Node_JS](https://img.shields.io/badge/-Node_JS-05122A?style=flat&logo=Node_JS)&nbsp;
+![Express_JS](https://img.shields.io/badge/-Express_JS-05122A?style=flat&logo=Express_JS)&nbsp;
+![mySql](https://img.shields.io/badge/-mySql-05122A?style=flat&logo=mySql)&nbsp;
+![mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JWT)&nbsp;
 - 📫 erfan.mh.at@gmail.com
 - 🎯 https://www.linkedin.com/in/erfan-mahdavi-athar-9198a7210/
 
