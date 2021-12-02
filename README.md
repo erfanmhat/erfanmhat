@@ -13,7 +13,6 @@
 ![KOTLIN](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat&logo=mvvm)&nbsp;
 ![Repository_Pattern](https://img.shields.io/badge/-Repository_Pattern-05122A?style=flat&logo=Repository_Pattern)&nbsp;
-![Repository_Pattern](https://img.shields.io/badge/-Repository_Pattern-05122A?style=flat&logo=Repository_Pattern)&nbsp;
 ![kotlin_coroutines](https://img.shields.io/badge/-Kotlin_Coroutines-05122A?style=flat&logo=kotlin_coroutines)&nbsp;
 ![Room](https://img.shields.io/badge/-Room-05122A?style=flat&logo=Room)&nbsp;
 ![Retrofit](https://img.shields.io/badge/-Retrofit-05122A?style=flat&logo=Retrofit)&nbsp;
