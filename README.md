@@ -21,12 +21,12 @@
 ![TEST](https://img.shields.io/badge/-Testing-05122A?style=flat&logo=TEST)&nbsp;
 - 🌟 also familiar with 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/-java_script-05122A?style=flat&logo=JAVASCRIPT)&nbsp;
-![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-Java_Script-05122A?style=flat&logo=JAVASCRIPT)&nbsp;
+![laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Node_JS](https://img.shields.io/badge/-Node_JS-05122A?style=flat&logo=Node_JS)&nbsp;
 ![Express_JS](https://img.shields.io/badge/-Express_JS-05122A?style=flat&logo=Express_JS)&nbsp;
-![mySql](https://img.shields.io/badge/-mySql-05122A?style=flat&logo=mySql)&nbsp;
-![mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![My_SQL](https://img.shields.io/badge/-My_SQL-05122A?style=flat&logo=My_SQL)&nbsp;
+![mongodb](https://img.shields.io/badge/-mongo_DB-05122A?style=flat&logo=mongodb)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JWT)&nbsp;
 - 📫 erfan.mh.at@gmail.com
 - 🎯 https://www.linkedin.com/in/erfan-mahdavi-athar-9198a7210/
